@@ -1,4 +1,7 @@
 # fusedtots
-<sub>Looking to learn about github</sub>
-<br>
-<sub> Will be shooting school children </sub>
+## Goals for GitHub
+- Relearing Html to use in this 
+- sooting kids
+- selling meth
+- breaking bod
+
